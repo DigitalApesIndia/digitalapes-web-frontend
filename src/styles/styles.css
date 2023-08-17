@@ -14,12 +14,12 @@
 
 .bg-colored-circle {
   position: absolute;
-  width: 1600px;
-  height: 1600px;
-  border-radius: 100%;
+  width: 1200px;
+  height: 1200px;
+  border-radius: 40%;
   z-index: 1;
   transform: translate(-50%, -50%);
-  filter: blur(500px);
+  filter: blur(200px);
   transition: all ease-in-out 3000ms;
 }
 

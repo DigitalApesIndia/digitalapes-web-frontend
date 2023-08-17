@@ -1,6 +1,5 @@
 import allianceCreditThumbnail from '../assets/images/alliance_credit_thumbnail.jpg'
 import vibrantThumbnail from '../assets/images/vibrant_thumbnail.jpg'
-import top10EasyThumbnail from '../assets/images/top10easy_thumbnail.jpg'
 
 
 let projects = {

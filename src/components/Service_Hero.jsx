@@ -82,7 +82,7 @@ let digitalMarketingServiceDescription =
 
 export default function Service_Hero() {
   return (
-    <div className="w-full bg-slate-950 pb-20 md:pb-40 lg:pb-60 relative">
+    <div className="w-full bg-slate-950 pb-20 md:pb-40 lg:pb-60 overflow-hidden relative">
 
       <div className="absolute -top-32 sm:-top-52 md:-top-40 w-100 flex left-1/2 -translate-x-1/2">
         <div
