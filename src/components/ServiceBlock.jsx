@@ -41,7 +41,7 @@ function ServiceBlock({
           })}
         </div>
 
-        <div className="w-full lg:w-1/2 relative h-96 md:h-120 lg:h-auto overflow-hidden bg-white">
+        <div className="w-full lg:w-1/2 relative aspect-6/5 overflow-hidden bg-white">
           <img src={serviceImage} alt="Service Image" className="absolute left-1/2 top-1/2 -translate-x-1/2 -translate-y-1/2" />
         </div>
 
